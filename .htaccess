@@ -1,2 +1,2 @@
 php_flag engine off
-DirectoryIndex home.html
+# DirectoryIndex home.html
