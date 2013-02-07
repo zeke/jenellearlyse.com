@@ -10,7 +10,7 @@
 }*/
 
 body {
-/*  background: url('rice.png');*/
+  background: url('bg.gif');
 /*  background-color: #899780;*/
 }
 
@@ -52,8 +52,7 @@ p, li {
 /*  font-family: 'Merriweather', serif;*/
   font-family: 'Courier New', serif;
   font-size: .8em;
-  color: #899780;
-/*  color: #544b25;*/
+  color: #5e6658;
 }
 
 li {
